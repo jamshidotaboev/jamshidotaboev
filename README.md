@@ -1,4 +1,4 @@
-#                                                                                       Hi👋I am **Jamshid**:
+#                                                                                       Hi👋I am **Jamshid**
 🎓 Student | 🌟 Aspiring Developer<br><br>🖥️ Passionate about Software Development | 🚀 Improving in React, JavaScript,  HTML, CSS<br><br>🔍 Exploring Algorithms | 🧩 Solving Challenges | 📚 Learning Continuously<br><br>📚 Learner | 🌟 Tech Enthusiast<br><br>🔍 Problem Solver | 📚 Constantly Evolving in Programming<br>
 
 
